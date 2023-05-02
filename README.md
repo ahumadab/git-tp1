@@ -1,5 +1,5 @@
 
-# Le langague Java
+# Le langage Java
 
 ## Introduction
 
